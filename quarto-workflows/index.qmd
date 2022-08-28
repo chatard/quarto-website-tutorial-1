@@ -1,4 +1,6 @@
 ---
+title-block-banner: "#fcd465"
+title-block-banner-color: "#4762a1"
 title: Quarto workflows
 ---
 
